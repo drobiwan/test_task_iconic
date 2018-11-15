@@ -1,2 +1,2 @@
-# test_task_iconic
-test task by iconic framework
+# test_task_ionic
+test task by ionic framework
